@@ -179,7 +179,7 @@ footer{
 
 .slider-track img {
     border-radius: 1rem;
-    width: 30rem;
+    width: 600px;
     height: 100%;
     object-fit: cover;
     user-select: none;
