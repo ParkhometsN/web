@@ -73,7 +73,7 @@
     flex-direction: column;
 }
 .textul ul li {
-    font-size: 1.3rem;
+        font-size: 1rem;
 }
 .catphoneblack {
     width: 98vw;
@@ -81,9 +81,6 @@
 }
 .description_content {
     margin-left: 0vw;
-}
-.textul ul{
-    list-style: none;
 }
 .ohhufeqoufheoqwfieh {
     width: 42vw;
@@ -93,7 +90,8 @@
     font-size: 6vw;
 }
 .textul{
-    text-align: center;
+    text-align: left;
+    padding-left: 1rem;
 }
 .iph {
     display: flex
@@ -107,7 +105,7 @@
     }
     .text_content p {
     font-size: 5.4vw;
-    text-align: center;
+        text-align: left;
 }
 .iqwehfiuhperqgh {
     position: absolute;

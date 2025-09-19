@@ -9,6 +9,10 @@
     font-family: 'hero-re';
     src: url(./font/Hero-Regular.ttf);
 }
+@font-face {
+    font-family: 'jjkbjbhk';
+    src: url(./font/ofont.ru_Hero.ttf);
+}
 p {
     display: block;
     margin-block-start: 0em;
@@ -85,10 +89,18 @@ header{
 
 .nabigation_blokc ul a{
     color: white;
+    opacity: 1;
     text-decoration: none;
+    transition: all 0.3s ease;
 }
 .mobile_navigation{
     display: none;
+}
+.nabigation_blokc ul a:hover{
+        color: var(--parymary);
+}
+.nabigation_blokc ul a:active{
+    opacity: 0.5;
 }
 
 
@@ -107,7 +119,7 @@ header{
     justify-content: space-between;
     width: 100%;
     color: white;
-
+    margin-top: 20vw;
 }
 
 .footer_contentdqw p{
@@ -185,8 +197,9 @@ header{
     margin-top: -6vw;
     position: absolute;
 }
+
 .iuhfqwu{
-      font-family: "hero-black";
+    font-family: 'hero-re';
 }
 .description{
 margin-top: 23vw;
@@ -238,7 +251,7 @@ margin-left: -15vw;
 }
 .textul p{
     font-size: 2rem;
-    font-family: "hero-black";
+    font-family: 'hero-re';
 }
 .linktitleblock{
     width: 100%;
@@ -269,7 +282,7 @@ margin-left: -15vw;
     cursor: pointer;
     border: none;
     padding: 1rem 2rem;
-    font-size: 5vw;
+    font-size: 4vw;
     background-color: #E9FA9C;
     border-radius: 5rem;
     transition: all 0.3s ease;
@@ -286,4 +299,29 @@ margin-left: -15vw;
     align-items: center;
     display: flex;
     flex-direction: column;
+}
+
+
+.jenfoqienfurpieg{
+    margin-left: 52vw;
+    width: 42vw;
+    z-index: 10;
+    position: absolute;
+    margin-top: -25vw;
+}
+.start_help{
+    margin-top: 20vw;
+}
+.weifuhwoerighoweirghoi{
+margin-left: -48vw;
+    width: 42vw;
+    z-index: 10;
+    position: absolute;
+    margin-top: -12vw;
+}
+
+
+
+.iunfoqiureoferbogqberi{
+    width: 2rem;
 }
