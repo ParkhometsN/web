@@ -1,0 +1,135 @@
+@media (max-width: 1440px) {
+}
+@media (max-width: 1194px) {
+    .logoblock p{
+    font-size: 0.8rem;
+    }
+    .nabigation_blokc ul a{
+    font-size: 0.8rem;
+    }
+}
+@media (max-width: 834px) {
+        .logoblock p{
+    font-size: 1rem;
+    }
+    .nabigation_blokc ul a{
+    font-size: 0.6rem;
+    }
+    .nabigation_blokc{
+        display: none;
+    }
+    .mobile_navigation{
+        display: inline;
+    }
+        .logoblock a p{
+        display: none;
+    }
+    .nabigation_blokc{
+        background-color: black;
+    }
+    .nabigation_blokwef ul{
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        align-items: center;
+        justify-content: center;
+    }
+    .fweoif img {
+    margin-top: 5vw;
+    padding-left: 2vw;
+    width: 45vw;
+    padding-bottom: 2vw;
+}
+    .nabigation_blokwef ul a{
+        color: white;
+        text-decoration: none;
+    }
+    .fqejwn {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.fqejwn h4 {
+    margin-top: 2vw;
+    font-size: 3.4vw;
+    font-family: 'hero-re';
+}
+.ewfwefwef{
+    margin-top: 13vw;
+}
+}
+@media (max-width: 375px) {
+    .container{
+        max-width: 343px;
+    }
+    .description_content {
+    display: flex
+;
+    margin-left: -23vw;
+    gap: 11vw;
+    margin-top: -9vw;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+.textul ul li {
+    font-size: 1.3rem;
+}
+.catphoneblack {
+    width: 98vw;
+    
+}
+.description_content {
+    margin-left: 0vw;
+}
+.textul ul{
+    list-style: none;
+}
+.ohhufeqoufheoqwfieh {
+    width: 42vw;
+    margin-left: -32vw;
+}
+.linkdwqqs p {
+    font-size: 6vw;
+}
+.textul{
+    text-align: center;
+}
+.iph {
+    display: flex
+;
+    margin-left: -30vw;
+    align-items: center;
+}
+
+    .logoblock a p{
+        display: none;
+    }
+    .text_content p {
+    font-size: 5.4vw;
+    text-align: center;
+}
+.iqwehfiuhperqgh {
+    position: absolute;
+    width: 110vw;
+    margin-top: -10vw;
+    margin-left: -10vw;
+}
+.fweoif img {
+        margin-top: 5vw;
+        padding-left: 2vw;
+        width: 86vw;
+        padding-bottom: 2vw;
+    }
+    .text_content {
+    margin-left: auto;
+    margin-top: 103vw;
+}
+    .fqejwn h4 {
+        margin-top: -8vw;
+        font-size: 6.4vw;
+        font-family: 'hero-re';
+    }
+
+
+}
